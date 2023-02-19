@@ -10,5 +10,6 @@ hardhat local에서 test 하였습니다.
 ## run test
 
 ```shell
+npm install
 npx hardhat test
 ```
